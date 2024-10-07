@@ -8,6 +8,8 @@ Ce projet est une plateforme de questions-réponses (Q&A) pour l'apprentissage e
 - **Modèle de Langage Google Palm** : Le projet utilise Google Palm via l'API Gemini Pro pour générer des réponses en langage naturel, basées sur le contexte fourni.
 - **Base de Données Vectorielle FAISS** : Les données de FAQ sont indexées et stockées dans une base de données vectorielle pour permettre une recherche rapide et efficace des réponses en fonction de la similarité sémantique.
 - **Embeddings Avancés avec HuggingFace** : Les questions et les réponses sont transformées en vecteurs numériques à l'aide du modèle `"hkunlp/instructor-large"` de Hugging Face, facilitant la recherche de similarité dans la base de données.
+- ![interface_qa](https://github.com/user-attachments/assets/7fb03799-dd2a-459b-bd73-1d2ccb73730e)
+
 
 ## 🚀 Installation et Utilisation
 
