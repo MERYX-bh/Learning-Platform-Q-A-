@@ -13,7 +13,7 @@ os.environ["USE_TF"] = "NO"
 print("Langchain helper is being loaded")
 import google.generativeai as genai
 
-genai.configure(api_key='AIzaSyANXKAK_EnJJcYMSSV_G8BkCqyezUPHGz4')
+genai.configure(api_key='API_KEY')
 
 llm  = genai.GenerativeModel('gemini-pro')
 # Initialize instructor embeddings using the Hugging Face model
