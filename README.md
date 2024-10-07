@@ -1,7 +1,9 @@
 # Learning Platform Q&A 🌱
 
 Ce projet est une plateforme de questions-réponses (Q&A) dédiée à l'apprentissage en ligne, conçue pour offrir des réponses précises et enrichissantes aux utilisateurs en s'appuyant sur les dernières avancées en matière de traitement du langage naturel. En utilisant des technologies de pointe telles que Langchain, Google Palm, et FAISS, l'application tire profit de la puissance des modèles de langage avancés pour comprendre et répondre aux questions des utilisateurs. La base de connaissances est créée à partir d'un fichier CSV contenant une série de questions fréquemment posées (FAQs) sur des sujets variés d'apprentissage en ligne. Cette application, qui intègre l'utilisation de Streamlit, est conçue pour être simple et intuitive, permettant aux utilisateurs d'interagir avec la plateforme dans un cadre convivial et interactif, et de recevoir des réponses adaptées à leurs besoins spécifiques en matière d'apprentissage.
-![Capture d’écran 2024-10-07 024055-01](https://github.com/user-attachments/assets/250dac7e-7ffe-4982-a12d-1b9a2960e04b)
+
+
+<img width="425" alt="Capture d’écran 2024-10-07 024055" src="https://github.com/user-attachments/assets/f8b2e39e-6423-415a-b45e-71a27279d655">
 
 
 ## 📚 Fonctionnalités
