@@ -62,6 +62,8 @@ streamlit run main.py
 ```
 
 Voici à un exemple d'une question et de sa réponse:
+
+
 ![interface_qa](https://github.com/user-attachments/assets/d1708ea6-62b4-43fe-b51d-dae3cf78e3e1)
 
 
